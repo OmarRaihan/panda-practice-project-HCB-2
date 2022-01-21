@@ -1,0 +1,15 @@
+.slide-bg{
+    background-color: #FEEAE9;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.button{
+    background: #FF589B;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 9px 25px;
+}
